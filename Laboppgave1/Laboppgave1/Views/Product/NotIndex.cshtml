@@ -1,0 +1,20 @@
+﻿@using Laboppgave1.Models.Entities
+@model IEnumerable<Product>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Product Catalogue</title>
+    </head>
+    <body>
+        <ul>
+        @foreach(Product p in Model) {
+            <li>@p.Name</li>
+        }
+        </ul>
+    </body>
+</html>
