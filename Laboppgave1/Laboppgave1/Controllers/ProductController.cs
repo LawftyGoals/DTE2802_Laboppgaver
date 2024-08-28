@@ -1,4 +1,5 @@
 ﻿using Laboppgave1.Models;
+using Laboppgave1.Models.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Laboppgave1.Controllers {
@@ -14,6 +15,10 @@ namespace Laboppgave1.Controllers {
             var products = this.repository.GetAll();
 
             return View(products);
+        }
+
+        public ActionResult Create(Product p) {
+            return p;
         }
     }
 }

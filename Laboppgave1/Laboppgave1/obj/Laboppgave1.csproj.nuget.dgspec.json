@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ØvingsOppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj": {}
+    "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ØvingsOppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj": {
+    "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ØvingsOppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj",
+        "projectUniqueName": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj",
         "projectName": "Laboppgave1",
-        "projectPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ØvingsOppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj",
+        "projectPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj",
         "packagesPath": "C:\\Users\\mymsn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ØvingsOppgaver\\Laboppgave1\\Laboppgave1\\obj\\",
+        "outputPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\mymsn\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
@@ -53,6 +53,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.17, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
             }
           },
           "imports": [

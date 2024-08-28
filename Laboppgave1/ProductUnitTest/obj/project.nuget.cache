@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "sE7tZE5AWMI=",
+  "dgSpecHash": "ZnzKdgabyUs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\ØvingsOppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\mymsn\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -89,6 +90,7 @@
     "C:\\Users\\mymsn\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.utils\\6.0.17\\microsoft.visualstudio.web.codegeneration.utils.6.0.17.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\6.0.17\\microsoft.visualstudio.web.codegenerators.mvc.6.0.17.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\mymsn\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\mstest.testadapter\\2.2.8\\mstest.testadapter.2.2.8.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\mstest.testframework\\2.2.8\\mstest.testframework.2.2.8.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
@@ -132,6 +134,7 @@
     "C:\\Users\\mymsn\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.3.0\\system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "C:\\Users\\mymsn\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\system.diagnostics.textwritertracelistener\\4.3.0\\system.diagnostics.textwritertracelistener.4.3.0.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\system.diagnostics.tools\\4.3.0\\system.diagnostics.tools.4.3.0.nupkg.sha512",
     "C:\\Users\\mymsn\\.nuget\\packages\\system.diagnostics.tracesource\\4.3.0\\system.diagnostics.tracesource.4.3.0.nupkg.sha512",
