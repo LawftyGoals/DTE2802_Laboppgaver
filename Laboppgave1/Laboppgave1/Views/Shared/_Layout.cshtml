@@ -32,6 +32,13 @@
     </header>
     <div class="container">
         <main role="main" class="pb-3">
+            @if (TempData["message"] != null)
+            {
+                <div class="alert-success">
+                    <button type="button" class="btn-close" data-bs-target="alert-success"></button>
+                    @TempData["message"]
+                </div>
+            }
             @RenderBody()
         </main>
     </div>

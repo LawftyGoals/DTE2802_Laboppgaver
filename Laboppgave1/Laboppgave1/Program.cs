@@ -1,10 +1,12 @@
 using Laboppgave1.Models;
+using Microsoft.AspNetCore.Mvc.ViewFeatures;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddTransient<IProductRepository, FakeProductRepsoitory>();
+builder.Services.AddSingleton<ITempDataProvider, CookieTempDataProvider>();
 
 var app = builder.Build();
 

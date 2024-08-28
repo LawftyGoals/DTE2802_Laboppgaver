@@ -17,8 +17,34 @@ namespace Laboppgave1.Controllers {
             return View(products);
         }
 
-        public ActionResult Create(Product p) {
-            return p;
+        // Create: GET
+        public IActionResult Create() {
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Create([Bind("ProductId,Name,Description,Price,Category")] Product product)
+        {
+            try
+            {
+                if (!ModelState.IsValid)
+                {
+                    return View();
+                }
+
+                repository.Save(product);
+                Console.WriteLine(repository.GetAll());
+
+                TempData["message"] = $"{repository.GetAll()} has been created.";
+
+                return RedirectToAction("Index");
+            }
+            catch (Exception ex) {
+                Console.Write(ex.ToString());
+
+                TempData["message"] = $"{product.Name} failed to be created.";
+                return RedirectToAction("Index");
+            }
         }
     }
 }

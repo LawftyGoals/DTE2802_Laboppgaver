@@ -1,7 +1,9 @@
 ﻿using Laboppgave1.Models.Entities;
 
-namespace Laboppgave1.Models {
-    public class FakeProductRepsoitory : IProductRepository {
+namespace Laboppgave1.Models
+{
+    public class FakeProductRepsoitory : IProductRepository
+    {
 
         readonly List<Product> products = new() {
             new Product { Name = "Hammer", Price = 121.50m, Category="Verktøy" },
@@ -13,6 +15,11 @@ namespace Laboppgave1.Models {
 
         public IEnumerable<Product> GetAll() => products;
 
+        public Task Save(Product product)
+        {
+            products.Add(product);
+            return Task.CompletedTask;
+        }
 
 
     }

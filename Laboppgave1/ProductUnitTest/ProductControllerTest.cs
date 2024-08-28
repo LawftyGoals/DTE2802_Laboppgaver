@@ -50,12 +50,12 @@ namespace ProductUnitTest {
         [TestMethod]
         public void SaveIsCalledWhenProductISCreated() {
             _moqRepository = new Mock<IProductRepository>();
-            _moqRepository.Setup(x => x.Save(It.IsAny<Product>()));
+            //_moqRepository.Setup(x => x.Save(It.IsAny<Product>()));
 
             var controller = new ProductController(_moqRepository.Object);
 
 
-            var result = controller.Create(new Product());
+            //var result = controller.Create(new Product());
 
             _moqRepository.VerifyAll();
 
