@@ -13,7 +13,6 @@ namespace Laboppgave1.Controllers {
         public IActionResult Index() {
 
             var products = this.repository.GetAll();
-            Console.WriteLine(products.Count());
 
             return View(products);
         }

@@ -24,7 +24,6 @@ namespace Laboppgave1.Models {
 
         public Task Save(Product product) {
             Products.Add(product);
-            Console.WriteLine(Products.Count());
             return Task.CompletedTask;
         }
 
