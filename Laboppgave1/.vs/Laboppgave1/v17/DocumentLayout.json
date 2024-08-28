@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\",
+  "WorkspaceRootPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\models\\fakeproductrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\models\\fakeproductrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\models\\fakeproductrepsoitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\models\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|c:\\users\\mymsn\\documents\\uit\\dte2802\\dte2802_laboppgaver\\laboppgave1\\laboppgave1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B6CD297B-ED4F-4910-81AA-C9FF9B2D18CC}|Laboppgave1\\Laboppgave1.csproj|solutionrelative:laboppgave1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -46,39 +46,107 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Laboppgave1\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Laboppgave1\\Views\\Product\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T12:57:59.778Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Laboppgave1\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Laboppgave1\\Views\\Product\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T13:12:10.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Laboppgave1\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Laboppgave1\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-28T15:38:09.268Z"
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Laboppgave1\\Models\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\IProductRepository.cs",
+              "RelativeToolTip": "Laboppgave1\\Models\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:08:23.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FakeProductRepsoitory.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\FakeProductRepsoitory.cs",
-              "RelativeDocumentMoniker": "Laboppgave1\\Models\\FakeProductRepsoitory.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\FakeProductRepsoitory.cs",
-              "RelativeToolTip": "Laboppgave1\\Models\\FakeProductRepsoitory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Laboppgave1\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Laboppgave1\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T13:34:44.555Z"
+              "WhenOpened": "2024-08-28T13:02:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Program.cs",
+              "RelativeDocumentMoniker": "Laboppgave1\\Program.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Program.cs",
+              "RelativeToolTip": "Laboppgave1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:21:02.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Laboppgave1\\Models\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\Entities\\Product.cs",
+              "RelativeToolTip": "Laboppgave1\\Models\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:05:22.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FakeProductRepsoitory.cs",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\FakeProductRepsoitory.cs",
+              "RelativeDocumentMoniker": "Laboppgave1\\Models\\FakeProductRepsoitory.cs",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\FakeProductRepsoitory.cs",
+              "RelativeToolTip": "Laboppgave1\\Models\\FakeProductRepsoitory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T13:34:44.555Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Laboppgave1\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Laboppgave1\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -86,76 +154,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Program.cs",
-              "RelativeDocumentMoniker": "Laboppgave1\\Program.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Program.cs",
-              "RelativeToolTip": "Laboppgave1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T13:21:02.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Laboppgave1\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Laboppgave1\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T13:12:10.047Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Laboppgave1\\Models\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\IProductRepository.cs",
-              "RelativeToolTip": "Laboppgave1\\Models\\IProductRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T13:08:23.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Laboppgave1\\Models\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Models\\Entities\\Product.cs",
-              "RelativeToolTip": "Laboppgave1\\Models\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T13:05:22.78Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Laboppgave1\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Laboppgave1\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T13:02:29.954Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Laboppgave1\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Laboppgave1\\Views\\Product\\Create.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-28T12:57:59.778Z"
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Laboppgave1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Laboppgave1\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-28T15:38:09.268Z"
             }
           ]
         }

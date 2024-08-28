@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddMvc();
 builder.Services.AddTransient<IProductRepository, FakeProductRepsoitory>();
 builder.Services.AddSingleton<ITempDataProvider, CookieTempDataProvider>();
 

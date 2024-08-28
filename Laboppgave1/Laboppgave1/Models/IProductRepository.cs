@@ -4,7 +4,7 @@ namespace Laboppgave1.Models {
     public interface IProductRepository {
         IEnumerable<Product> GetAll();
 
-        Task Save(Product product);
+        public Task Save(Product product);
 
     }
 }

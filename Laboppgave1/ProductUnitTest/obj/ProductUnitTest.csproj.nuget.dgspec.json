@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj": {}
+    "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj": {
+    "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj",
+        "projectUniqueName": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj",
         "projectName": "Laboppgave1",
-        "projectPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj",
-        "packagesPath": "C:\\Users\\xg47\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\obj\\",
+        "projectPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj",
+        "packagesPath": "C:\\Users\\mymsn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\mymsn\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\xg47\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mymsn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mymsn\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -66,6 +70,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -74,21 +96,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj": {
+    "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj",
         "projectName": "ProductUnitTest",
-        "projectPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj",
-        "packagesPath": "C:\\Users\\xg47\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\obj\\",
+        "projectPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\ProductUnitTest.csproj",
+        "packagesPath": "C:\\Users\\mymsn\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\ProductUnitTest\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\mymsn\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\xg47\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mymsn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mymsn\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,8 +129,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj": {
-                "projectPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj"
+              "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj": {
+                "projectPath": "C:\\Users\\mymsn\\Documents\\UIT\\DTE2802\\DTE2802_Laboppgaver\\Laboppgave1\\Laboppgave1\\Laboppgave1.csproj"
               }
             }
           }
@@ -156,12 +182,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
