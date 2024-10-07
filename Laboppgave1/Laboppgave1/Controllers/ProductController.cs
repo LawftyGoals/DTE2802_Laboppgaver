@@ -23,19 +23,15 @@ namespace Laboppgave1.Controllers {
         }
 
         [HttpPost]
-        public IActionResult Create([Bind("ProductId,Name,Description,Price,Category")] Product product)
-        {
-            try
-            {
-                if (!ModelState.IsValid)
-                {
+        public IActionResult Create([Bind("ProductId,Name,Description,Price,Category")] Product product) {
+            try {
+                if (!ModelState.IsValid) {
                     return View();
                 }
 
-                repository.Save(product);
-                Console.WriteLine(repository.GetAll());
+                this.repository.Save(product);
 
-                TempData["message"] = $"{repository.GetAll()} has been created.";
+                TempData["message"] = $"{product.Name} has been created.";
 
                 return RedirectToAction("Index");
             }
