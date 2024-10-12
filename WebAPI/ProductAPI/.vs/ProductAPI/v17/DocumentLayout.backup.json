@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{24872431-E6BD-4E87-B982-375BF1987C34}|ProductAPITests\\ProductAPITests.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapitests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24872431-E6BD-4E87-B982-375BF1987C34}|ProductAPITests\\ProductAPITests.csproj|solutionrelative:productapitests\\productcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,12 +23,20 @@
       "RelativeMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\services\\iproductservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24872431-E6BD-4E87-B982-375BF1987C34}|ProductAPITests\\ProductAPITests.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapitests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24872431-E6BD-4E87-B982-375BF1987C34}|ProductAPITests\\ProductAPITests.csproj|solutionrelative:productapitests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|c:\\users\\xg47\\documents\\utdanning\\dte2802\\dte2802_laboppgaver\\webapi\\productapi\\productapi\\models\\productbindtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6D5899B-121F-42F7-B90C-D500716157B8}|ProductAPI\\ProductAPI.csproj|solutionrelative:productapi\\models\\productbindtarget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,67 +51,115 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPITests\\ProductControllerTests.cs",
+              "RelativeDocumentMoniker": "ProductAPITests\\ProductControllerTests.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPITests\\ProductControllerTests.cs",
+              "RelativeToolTip": "ProductAPITests\\ProductControllerTests.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwGwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T16:28:38.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPITests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "ProductAPITests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPITests\\UnitTest1.cs",
+              "RelativeToolTip": "ProductAPITests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T17:54:36.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\appsettings.json",
+              "RelativeToolTip": "ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-09T16:44:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductBindTarget.cs",
+              "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Models\\ProductBindTarget.cs",
+              "RelativeDocumentMoniker": "ProductAPI\\Models\\ProductBindTarget.cs",
+              "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Models\\ProductBindTarget.cs",
+              "RelativeToolTip": "ProductAPI\\Models\\ProductBindTarget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T18:51:50.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Controllers\\ProductController.cs",
               "RelativeToolTip": "ProductAPI\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T13:29:01.003Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Program.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Program.cs",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Program.cs",
               "RelativeToolTip": "ProductAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T12:45:07.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Services\\ProductService.cs",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Services\\ProductService.cs",
               "RelativeToolTip": "ProductAPI\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABRAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T12:52:56.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IProductServices.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Services\\IProductServices.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Services\\IProductServices.cs",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Services\\IProductServices.cs",
               "RelativeToolTip": "ProductAPI\\Services\\IProductServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T12:52:00.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "ProductAPI\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\xg47\\Documents\\Utdanning\\DTE2802\\DTE2802_Laboppgaver\\WebAPI\\ProductAPI\\ProductAPI\\Models\\Product.cs",
               "RelativeToolTip": "ProductAPI\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T12:46:11.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T12:46:11.821Z"
             }
           ]
         }
